@@ -1,1 +1,1 @@
-# advertising-only
+# advertising
